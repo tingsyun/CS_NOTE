@@ -50,7 +50,11 @@ note
 > 解壓縮：xz -d FileName.xz.   
 > 3.tar.gz. 
 > 壓縮：tar -zcvf FileName.tar.gz DirName.  
-> 解壓縮：tar -zxvf FileName.tar.gz
+> 解壓縮：tar -zxvf FileName.tar.gz.  
+
+ 
+>  比較.  
+>  解壓縮用時  bzip2>xz>gizp
 
 
 
